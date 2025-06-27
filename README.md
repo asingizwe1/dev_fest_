@@ -20,7 +20,8 @@ CleanChainOperator is a decentralized waste management platform deployed on the 
 Originally tested extensively on the Base Sepolia testnet before being deployed live.
 
 Features
--Uses an in app deployed token deployed at 0xd975232a55C083f30598EEacA02E71DB4FE04822
+
+-Uses an in app deployed token PPEN(plastic penny) deployed at 0xd975232a55C083f30598EEacA02E71DB4FE04822
 - 🗺 Interactive map with custom markers for waste jobs
 -  Smart contract-backed verification of job completion
 -  Real-time status updates: Pending vs. Completed
