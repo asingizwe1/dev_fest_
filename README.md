@@ -1,4 +1,4 @@
- ♻️ CleanChainPenny — Decentralized Waste Management on Base
+ ♻️ CleanChainOperator — Decentralized Waste Management on Base
 
 A blockchain-powered platform to track and incentivize PLASTIC waste collection, bringing transparency and accountability to urban sanitation according to UGANDA'S SUSTAINABLE DEVELOPMENT GOAL 12.5 which emphasizes prevention of dumping
 
